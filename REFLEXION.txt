@@ -1,0 +1,34 @@
+Class Name is: Pack.RentCar
+Class Name without package is: RentCar
+Package Name is: package Pack
+Constructors are: [public Pack.RentCar(), public Pack.RentCar(int)]
+Methods are: [public java.lang.String Pack.RentCar.computeRentalCost(int), public int Pack.RentCar.getRate(), public void Pack.RentCar.setRate(int), public void Pack.RentCar.setType(java.lang.String), public java.lang.String Pack.RentCar.getType(), public final void java.lang.Object.wait(long,int) throws java.lang.InterruptedException, public final native void java.lang.Object.wait(long) throws java.lang.InterruptedException, public final void java.lang.Object.wait() throws java.lang.InterruptedException, public boolean java.lang.Object.equals(java.lang.Object), public java.lang.String java.lang.Object.toString(), public native int java.lang.Object.hashCode(), public final native java.lang.Class java.lang.Object.getClass(), public final native void java.lang.Object.notify(), public final native void java.lang.Object.notifyAll()]
+Method = computeRentalCost
+Method = getRate
+Method = setRate
+Method = setType
+Method = getType
+Method = wait
+Method = wait
+Method = wait
+Method = equals
+Method = toString
+Method = hashCode
+Method = getClass
+Method = notify
+Method = notifyAll
+Methods are: [public java.lang.String Pack.RentCar.computeRentalCost(int), public int Pack.RentCar.getRate(), public void Pack.RentCar.setRate(int), public void Pack.RentCar.setType(java.lang.String), public java.lang.String Pack.RentCar.getType()]Method = computeRentalCost
+Method = getRate
+Method = setRate
+Method = setType
+Method = getType
+Methods is: public java.lang.String Pack.RentCar.computeRentalCost(int)
+The cost of your rental car is 180 euros
+Parameters type of computeRentalCost() are: [int]
+Return type is: class java.lang.String
+Public Fields are: 
+FieldName is: price
+Type of field price is: int
+Value of field price is: 180
+one private fieldName is: type
+fieldValue = mid-sized
